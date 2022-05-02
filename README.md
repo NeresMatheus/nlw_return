@@ -1,7 +1,7 @@
 # nlw_return
 Repositório criado para acompanhar nlw da rockeatseat
 
-###* Boas práticas para ir até o fim do projeto (Minha interpretação)
+### Boas práticas para ir até o fim do projeto (Minha interpretação)
   * Entrar na comunidade do Discord
   * Entender o funcionamento da comunidade Rockeatseat no discord
   * Usar o espaço do Discord para tirar duvidas técnicas
